@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1551635043 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1552307578 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/main2.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+	"PowerUp.h"
+	<vector>
+
+1552306764 /home/carlos/Escritorio/Ua/FV/CogerPowerUp/include/juego.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<PowerUp.h>
+
+1552309977 /home/carlos/Escritorio/Ua/FV/CogerPowerUp/include/PowerUp.h
+	<SFML/Graphics.hpp>
+
+1552310131 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/src/juego.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+
+1552310094 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/src/PowerUp.cpp
+	"PowerUp.h"
+

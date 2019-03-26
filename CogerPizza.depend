@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1551635043 source:/home/carlos/Escritorio/Ua/FV/CogerPizza/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1551635043 source:/home/carlos/Escritorio/Ua/FV/CogerPizza/main2.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+
+1551862908 /home/carlos/Escritorio/Ua/FV/CogerPizza/include/juego.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1551863066 source:/home/carlos/Escritorio/Ua/FV/CogerPizza/src/juego.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+

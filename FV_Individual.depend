@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1549824864 source:/home/carlos/Escritorio/Ua/FV/FV_Individual/main.cpp
+	<SFML/Graphics.hpp>
+
+1550514153 source:/home/carlos/Escritorio/Ua/FV/Prueba/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1550513512 source:/home/carlos/Escritorio/Ua/FV/Prueba/main2.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+
+1550513133 /home/carlos/Escritorio/Ua/FV/Prueba/include/juego.h
+	<SFML/Graphics.hpp>
+
+1550513420 source:/home/carlos/Escritorio/Ua/FV/Prueba/src/juego.cpp
+	"juego.h"
+
+1551635043 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/main2.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+
+1551862908 /home/carlos/Escritorio/Ua/FV/CogerPowerUp/include/juego.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1551692630 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/src/juego.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"juego.h"
+
+1551635043 source:/home/carlos/Escritorio/Ua/FV/CogerPowerUp/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+
